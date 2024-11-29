@@ -1,0 +1,44 @@
+
+.scroll {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#stu_address {
+  resize: none;
+}
+
+.card-header:first-child {
+  margin-top: 5px;
+  background: #007bff80;
+}
+
+body {
+  overflow: hidden;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-center {
+  text-align: center;
+}
+
+#addRecords,
+#resetRecords {
+  width: 20%;
+}
+
+#tbl_student_length {
+  margin-top: 5px;
+}
+
+#tbl_student_info {
+  position: absolute;
+  margin-left: 510px;
+}
+
+.select2-container--default .select2-selection--single {
+  border: 1px solid #ced4da !important;
+}
